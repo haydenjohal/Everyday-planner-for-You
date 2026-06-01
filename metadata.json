@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Planner",
+  "description": "A simple weekly schedule planner with priority sorting, drag-and-drop rescheduling, and basic conflict checking to help manage school assignments, work shifts, workouts, and free time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
